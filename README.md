@@ -2,4 +2,8 @@
 Machine Learning Repo
 ##
 all topices
-updating all topices
+- Linear Regression
+- Logistic Regression
+- Multiclass classification
+- Decision Tree
+  
